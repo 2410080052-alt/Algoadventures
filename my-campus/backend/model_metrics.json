@@ -1,0 +1,46 @@
+{
+  "accuracy": 0.704,
+  "roc_auc": 0.765441317161271,
+  "feature_importance": [
+    {
+      "feature": "age",
+      "importance": 0.3551306505194407
+    },
+    {
+      "feature": "avg_glucose_level",
+      "importance": 0.18118877143671797
+    },
+    {
+      "feature": "bmi",
+      "importance": 0.15819449978421943
+    },
+    {
+      "feature": "smoking_status",
+      "importance": 0.08388664587663248
+    },
+    {
+      "feature": "heart_disease",
+      "importance": 0.06625825304923193
+    },
+    {
+      "feature": "hypertension",
+      "importance": 0.05139403141936533
+    },
+    {
+      "feature": "work_type",
+      "importance": 0.04611600281538841
+    },
+    {
+      "feature": "Residence_type",
+      "importance": 0.020717474260253547
+    },
+    {
+      "feature": "gender",
+      "importance": 0.019138912100945767
+    },
+    {
+      "feature": "ever_married",
+      "importance": 0.01797475873780444
+    }
+  ]
+}
